@@ -26,6 +26,7 @@ sass style/main.scss style/main.css --watch
 3. Launch with Live Server
 bash
 npx live-server
+```
 📦 Technologies
 Vanilla JavaScript (ES Modules)
 

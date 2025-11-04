@@ -1,0 +1,14 @@
+{
+  "name": "text-encryptor",
+  "version": "1.0.0",
+  "description": "Canvas-based encryption tool with password protection and animated UI",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Murad",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.93.3"
+  }
+}

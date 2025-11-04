@@ -1,0 +1,18 @@
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.pulse {
+  animation: pulse 2s infinite;
+}
+
+@keyframes slide-up {
+  0% { transform: translateY(30px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+.slide-up {
+  animation: slide-up 0.6s ease-out forwards;
+}

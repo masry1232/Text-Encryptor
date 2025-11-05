@@ -5,7 +5,7 @@
 
 
 
-![Text Encryptor UI](screenshot/Screenshort.png)
+![Text Encryptor UI](screenshort/Screenshort.png)
 
 
 ## 🚀 Features

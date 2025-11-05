@@ -1,5 +1,5 @@
 @use 'variables' as *;
-
+ 
 @mixin gradient-button {
   background: linear-gradient(135deg, $gradient-start, $gradient-end);
   color: #fff;

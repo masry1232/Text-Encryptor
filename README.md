@@ -1,4 +1,4 @@
-# 🔐 Text Encryptor  
+# 🔐 Text Encryptor 
 
 **Text Encryptor** is a modern, canvas-enhanced web application for secure message encryption and decryption. Built with modular JavaScript and SCSS architecture, it features a branded UI, animated particle background, and responsive design. Ideal for developers, educators, and privacy-conscious users.
 ---

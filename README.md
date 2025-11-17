@@ -5,7 +5,6 @@
 
 ![Text Encryptor UI](screenshort/Screenshort.png)
 
-
 ## 🚀 Features
 
 - ✨ **Canvas-based particle animation** for immersive visuals

